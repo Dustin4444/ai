@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@huggingface/inference": "^2.5.1",
+    "@huggingface/inference": "^3.8.1",
     "ai": "2.1.32",
     "next": "13.4.4-canary.11",
     "openai-edge": "^0.5.1",
