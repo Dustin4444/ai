@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "ai": "^2.1.32",
-    "langchain": "^0.0.103",
+    "langchain": "^0.1.29",
     "nuxt-icon": "^0.4.1",
     "vue": "^3.3.4"
   }
