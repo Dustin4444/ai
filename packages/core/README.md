@@ -1,5 +1,7 @@
 # Vercel AI SDK
 
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/Dustin4444/ai?utm_source=badge)
+
 The Vercel AI SDK is **a library for building AI-powered streaming text and chat UIs**.
 
 ## Features
